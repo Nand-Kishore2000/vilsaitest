@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/vilsaitest/static/css/main.d8d31087.css",
+    "main.js": "/vilsaitest/static/js/main.7caa83a6.js",
+    "static/js/787.eef7732e.chunk.js": "/vilsaitest/static/js/787.eef7732e.chunk.js",
+    "static/media/resume.svg": "/vilsaitest/static/media/resume.22eefc19dbe9696aa11bac87e9703115.svg",
+    "static/media/mentor.svg": "/vilsaitest/static/media/mentor.672fca96ecce768c987e3ad68f84e85a.svg",
+    "static/media/mockinterview.svg": "/vilsaitest/static/media/mockinterview.7dea654a00f26f7d541c05ccc93cd95e.svg",
+    "static/media/praticetest.svg": "/vilsaitest/static/media/praticetest.5eb5b6f6388cb44e4a8ca311a82bf9ff.svg",
+    "static/media/reports.svg": "/vilsaitest/static/media/reports.fd8954dbcbbb837d005a259e0ce878e6.svg",
+    "static/media/course.svg": "/vilsaitest/static/media/course.765cb61ffa0e3262015e36dfcc343b04.svg",
+    "static/media/settings.svg": "/vilsaitest/static/media/settings.2c52e6d54f9982c96d3d8b0a2aa6419f.svg",
+    "static/media/scoreblue.svg": "/vilsaitest/static/media/scoreblue.d3efa578ffbb05e1e2fa15cb2c5e8380.svg",
+    "static/media/scoregreen.svg": "/vilsaitest/static/media/scoregreen.fdd3c1120fe51f91a759f1ca89ffcb2e.svg",
+    "static/media/scorered.svg": "/vilsaitest/static/media/scorered.5d7b40500f96b2a98a66e8b565e271a4.svg",
+    "static/media/arrow.svg": "/vilsaitest/static/media/arrow.0c04a91c877ba0310614f9f11bc4f4b6.svg",
+    "static/media/communication.svg": "/vilsaitest/static/media/communication.fde12f43a0d0df6121d6fabd51f32098.svg",
+    "static/media/chart.svg": "/vilsaitest/static/media/chart.24c2e4314cb146fadfa5352623351d8b.svg",
+    "index.html": "/vilsaitest/index.html",
+    "static/media/dashboard.svg": "/vilsaitest/static/media/dashboard.1995377b3ec854e39526bd7f0039dd8f.svg",
+    "static/media/logout.svg": "/vilsaitest/static/media/logout.3f798043f2417c64a32e6e42c5530e69.svg",
+    "static/media/premium.svg": "/vilsaitest/static/media/premium.1f2165671fd5906b2c69fb132787bf16.svg",
+    "static/media/user.svg": "/vilsaitest/static/media/user.daa5cc80408b32112f49b51ab2016b25.svg",
+    "static/media/arrowdiv.svg": "/vilsaitest/static/media/arrowdiv.5a753a8bd61324a90009dfee672c21a9.svg",
+    "static/media/line.svg": "/vilsaitest/static/media/line.38b62b2178a5a66a9d731c43f4a12be2.svg",
+    "main.d8d31087.css.map": "/vilsaitest/static/css/main.d8d31087.css.map",
+    "main.7caa83a6.js.map": "/vilsaitest/static/js/main.7caa83a6.js.map",
+    "787.eef7732e.chunk.js.map": "/vilsaitest/static/js/787.eef7732e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8d31087.css",
+    "static/js/main.7caa83a6.js"
+  ]
+}
